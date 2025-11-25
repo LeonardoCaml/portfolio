@@ -228,7 +228,9 @@ function App() {
                 Fale Comigo
               </Button>
               <Button action="" style="text-orange-500 border-white bg-white">
-                Curriculo
+                <a href="Leonardo_Camelo_CV.pdf" download>
+                  Currículo
+                </a>
               </Button>
             </div>
           </div>
